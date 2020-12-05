@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/root/.dbus'
+let g:netrw_dirhist_6='/home/sahil/pythonbackup'
+let g:netrw_dirhist_5='/home/sahil/.config/i3'
+let g:netrw_dirhist_4='/root'
+let g:netrw_dirhist_3='/home/sahil/pythonbackup/scikit-monaco'
+let g:netrw_dirhist_2='/root/.vim/plugged/welpe.vim'
+let g:netrw_dirhist_1='/home/sahil/.config/i3'
